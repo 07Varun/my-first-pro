@@ -6,7 +6,7 @@ basic HTML program
   <title>About Me</title>
   <link rel="stylesheet" href="style.css">
 </head>
-<body bgcolor=”#e6e6fa”>
+<body background="C:\Users\promi\Favorites\Documents\Downloads\thumbnail.jpeg">
   <h1>Hello! I'm Varun Ray</h1>
   <p>I’m a student learning Web Development (HTML, CSS, JavaScript).</p>
 
