@@ -18,6 +18,6 @@ basic HTML program
   </ul>
 
   
-  <p>Email: example@email.com</p>
+  
 </body>
 </html>
